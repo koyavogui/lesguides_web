@@ -1,0 +1,1 @@
+import{N as t}from"./index.3698d03c.js";t.registerType("warn",{position:"top-right",type:"warning",classes:"text-weight-regular text-italic",badgePosition:"top-right",icon:"fa-solid fa-triangle-exclamation",progress:!0});

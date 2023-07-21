@@ -1,0 +1,1 @@
+import{N as e}from"./index.3698d03c.js";e.registerType("success",{position:"top-right",color:"green-8",textColor:"green-1",classes:"text-weight-regular text-italic",badgePosition:"top-right",icon:"fa-solid fa-check",progress:!0,iconColor:"green-1"});
